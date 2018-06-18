@@ -1,0 +1,7 @@
+#!/bin/bash
+
+./build_cp_fw
+./build_lin
+./build_win
+
+
