@@ -1,19 +1,10 @@
-ESC tool
+Ackmaniac VESC tool Linux build
 =============
 
-This is a GUI written using the Qt toolkit to configure ESC motor controllers.
 
-This is based on Benjamin Vedders work (https://github.com/vedderb/vesc_tool).
-
-Changes to the original Software
-----------------
-
-  - removed all trademarked Logos
-  - removed all trademarked Wording / Brand
-  - removed the update-version online Check
-  - removed the First-Start Wizard where you need to accept the warranty/disclaimer
-  - changed the License information to be in the file COPYING
+This is just a linux build of Ackmaniacs fork of vesc tool. 
+Executable is in the release folder, hopefully someone can use it and if not, i'll try to help
 
 
-Happy further forking and using. Thanks Benjamin for your work.  
+Happy further forking and using. Thanks Benjamin & Ackmaniac for your work.  
 # Ackmaniac-VESC-tool-build
